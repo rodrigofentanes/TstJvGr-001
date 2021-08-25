@@ -15,13 +15,13 @@ Meu primeiro projeto criado em Java com Gradle. Sua base foi gerada pelo Intelli
 
 ## Construir o projeto (build)
 -   `<nomeDoProjeto>`
-    -   Lifecycle
-        -   install
+    -   `Lifecycle`
+        -   `install`
 
 ## Executar o projeto (run)
 -   `<nomeDoProjeto>`
     -   Plugins
-        -   spring-boot
-            -   spring-boot:run
+        -   `spring-boot`
+            -   `spring-boot:run`
 
 
