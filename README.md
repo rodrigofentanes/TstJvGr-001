@@ -10,19 +10,13 @@ Meu primeiro projeto criado em Java com Gradle. Sua base foi gerada pelo Intelli
 [![Detalhe](https://img.shields.io/badge/Group-com\.rodrigofentanes-006c67.svg)](https://shields.io/)
 [![Detalhe](https://img.shields.io/badge/Dependências-|_-f9c067.svg)](https://shields.io/)
 
-<br>
-
 ## Recomendações
 -   Utilize uma IDE voltada para o desenvolvimento em Java, como o **IntelliJ IDEA** ou **Eclipse**.
-
-<br>
 
 ## Construir o projeto (build)
 -   `<nomeDoProjeto>`
     -   Lifecycle
         -   install
-
-<br>
 
 ## Executar o projeto (run)
 -   `<nomeDoProjeto>`
@@ -30,5 +24,4 @@ Meu primeiro projeto criado em Java com Gradle. Sua base foi gerada pelo Intelli
         -   spring-boot
             -   spring-boot:run
 
-<br>
 
