@@ -20,7 +20,7 @@ Meu primeiro projeto criado em Java com Gradle. Sua base foi gerada pelo Intelli
 
 ## Executar o projeto (run)
 -   `<nomeDoProjeto>`
-    -   Plugins
+    -   `Plugins`
         -   `spring-boot`
             -   `spring-boot:run`
 
