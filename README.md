@@ -1,15 +1,14 @@
 <h1 style="text-align:center"> 
-    Java (Treinamento)
+    TstJvGr-001
 </h1>
 
-Ambiente utilizado para organizar, testar e registrar os projetos voltados para meu aprendizado e treinamento em **Java**.
+Meu primeiro projeto criado em Java com Gradle. Sua base foi gerada pelo IntelliJ IDEA.
 
-Todos os projetos de treino serão nomeados na ordem do alphabeto grego, sendo Alpha o 1º, Beta o 2º, Gamma o 3º e assim por diante.
-
-## Siglas de projeto:
--   J (Java)
--   JM (Java & Maven)
--   JG (Java & Gradle)
+## Sobre o projeto
+[![Detalhe](https://img.shields.io/badge/Linguagem-Java_11.0.11-9b0e03.svg)](https://shields.io/)
+[![Detalhe](https://img.shields.io/badge/Projeto-Gradle_Project-335599.svg)](https://shields.io/)
+[![Detalhe](https://img.shields.io/badge/Group-com\.rodrigofentanes-006c67.svg)](https://shields.io/)
+[![Detalhe](https://img.shields.io/badge/Dependências-|_-f9c067.svg)](https://shields.io/)
 
 <br>
 
@@ -18,33 +17,18 @@ Todos os projetos de treino serão nomeados na ordem do alphabeto grego, sendo A
 
 <br>
 
-## Construir um projeto (build)
-
-Em maven:
--   `<nomeDoProjeto>` --> Lifecycle --> install;
-
-<br>
-
-## Executar um projeto (run)
-Em Maven:
--   `<nomeDoProjeto>` --> Plugins --> spring-boot --> spring-boot:run
+## Construir o projeto (build)
+-   `<nomeDoProjeto>`
+    -   Lifecycle
+        -   install
 
 <br>
 
-<br>
-<br>
-
-# JG-Alpha
-Meu primeiro projeto criado em Java com Gradle. Sua base foi gerada pelo IntelliJ IDEA.
-
-## Sobre o projeto
-[![Detalhe](https://img.shields.io/badge/Linguagem-Java_11.0.11-9b0e03.svg)](https://shields.io/)
-
-[![Detalhe](https://img.shields.io/badge/Projeto-Gradle_Project-335599.svg)](https://shields.io/)
-
-[![Detalhe](https://img.shields.io/badge/Group-com\.rodrigofentanes-006c67.svg)](https://shields.io/)
-
-[![Detalhe](https://img.shields.io/badge/Dependências-|_-f9c067.svg)](https://shields.io/)
+## Executar o projeto (run)
+-   `<nomeDoProjeto>`
+    -   Plugins
+        -   spring-boot
+            -   spring-boot:run
 
 <br>
-<br>
+
